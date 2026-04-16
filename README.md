@@ -37,7 +37,7 @@ Zero ad spend across both. No marketing team.
 
 **Claude Code:**
 ```
-git clone https://github.com/scalebrick/scalebrick-marketing-skills.git
+git clone https://github.com/ScaleBrick/scalebrick-marketing-skills.git
 ```
 
 Then add to your project:
