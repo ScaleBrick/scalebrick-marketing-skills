@@ -1,5 +1,5 @@
 ---
-name: scalebrick:audit
+name: audit
 description: Analyze whether TikTok or Instagram search traffic is a viable growth channel for your business. Uses ScaleBrick's framework to evaluate demand, competition, content fit, and intent categories. Ends with a go/no-go recommendation.
 ---
 

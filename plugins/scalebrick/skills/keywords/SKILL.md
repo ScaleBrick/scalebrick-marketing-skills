@@ -1,5 +1,5 @@
 ---
-name: scalebrick:keywords
+name: keywords
 description: Research high-intent TikTok and Instagram search keywords using ScaleBrick's framework. Returns categorized keywords with intent type, search volume estimate, difficulty score, and content angle for each.
 ---
 

@@ -1,6 +1,10 @@
 # ScaleBrick Marketing Skills
 
+Plugin name: `scalebrick`
+
 ## Available Skills
+
+After installing via `/plugin install scalebrick@scalebrick`, invoke using the `scalebrick:` namespace:
 
 - **scalebrick:audit** — Analyze whether TikTok/Instagram is a viable growth channel for a business
 - **scalebrick:keywords** — Research high-intent TikTok/Instagram search keywords for any niche

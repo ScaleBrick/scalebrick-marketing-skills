@@ -35,20 +35,25 @@ Zero ad spend across both. No marketing team.
 
 ## Install
 
-**Claude Code:**
+**One command in Claude Code:**
+
 ```
-git clone https://github.com/ScaleBrick/scalebrick-marketing-skills.git
+/plugin marketplace add ScaleBrick/scalebrick-marketing-skills
+/plugin install scalebrick@scalebrick
 ```
 
-Then add to your project:
-```
-cp -r scalebrick-marketing-skills/skills/ .claude/skills/scalebrick/
-```
+That's it. All 4 skills are now available in your Claude Code session.
 
-Or reference the repo directly in your Claude Code config.
+**Invoke any skill:**
+```
+/scalebrick:audit
+/scalebrick:keywords
+/scalebrick:strategy
+/scalebrick:competitors
+```
 
 **Other AI agents (Cursor, Codex, Gemini CLI):**
-Copy the `skills/` folder into your agent's skill directory. Each skill is a standalone SKILL.md file.
+Copy the `plugins/scalebrick/skills/` folder contents into your agent's skill directory. Each skill is a standalone SKILL.md file.
 
 ## How it works
 

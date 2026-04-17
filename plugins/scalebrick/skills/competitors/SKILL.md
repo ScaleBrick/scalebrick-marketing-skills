@@ -1,5 +1,5 @@
 ---
-name: scalebrick:competitors
+name: competitors
 description: Audit competitors using ScaleBrick's 3-surface framework (social, web/pages, SEO). Categorizes their pricing, features, and landing pages. Identifies gaps you can exploit, positioning angles no one is claiming, and specific moves you can make this week.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: scalebrick:strategy
+name: strategy
 description: Generate a full marketing strategy using ScaleBrick's "TikTok as Search Engine" framework. Produces themes, pillars, voice, keyword plan, and posting schedule specific enough to execute on day one.
 ---
 

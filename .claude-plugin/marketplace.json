@@ -1,0 +1,36 @@
+{
+  "name": "scalebrick",
+  "owner": {
+    "name": "ScaleBrick",
+    "email": "hello@scalebrick.com"
+  },
+  "metadata": {
+    "description": "Open-source Claude Code skills for startup founders and growth marketers. Built on the methodology behind 5,300 page visits in 47 days for a YC startup.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "scalebrick",
+      "source": "./plugins/scalebrick",
+      "description": "4 marketing skills for social search audit, keyword research, growth strategy, and competitor intelligence. No setup required.",
+      "version": "1.0.0",
+      "author": {
+        "name": "ScaleBrick",
+        "email": "hello@scalebrick.com"
+      },
+      "homepage": "https://scalebrick.com",
+      "repository": "https://github.com/ScaleBrick/scalebrick-marketing-skills",
+      "license": "MIT",
+      "keywords": [
+        "marketing",
+        "ai-marketing",
+        "tiktok-seo",
+        "keyword-research",
+        "growth",
+        "competitor-analysis",
+        "startup"
+      ],
+      "category": "marketing"
+    }
+  ]
+}

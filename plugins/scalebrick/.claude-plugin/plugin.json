@@ -1,0 +1,12 @@
+{
+  "name": "scalebrick",
+  "description": "4 marketing skills for Claude Code: social search audit, keyword research, growth strategy, and competitor intelligence. Built on the methodology behind 5,300 page visits in 47 days for a YC startup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ScaleBrick",
+    "email": "hello@scalebrick.com"
+  },
+  "homepage": "https://scalebrick.com",
+  "repository": "https://github.com/ScaleBrick/scalebrick-marketing-skills",
+  "license": "MIT"
+}
