@@ -1,6 +1,6 @@
 # ScaleBrick Marketing Skills
 
-**The marketing methodology behind 353K views and 5,300 page visits in 47 days for a YC startup. $0 ad spend.**
+**The marketing system behind 353K views and 5,300 page visits in 47 days for a YC startup. $0 ad spend.**
 
 Open-source Claude Code skills for startup founders and growth marketers. Built on the same methodology that powers ScaleBrick's AI VP of Marketing, Morgan.
 
