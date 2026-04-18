@@ -37,7 +37,7 @@ Zero ad spend across both. No marketing team.
 
 ## See it in action
 
-Running `/scalebrick:audit` on Cal AI, the AI calorie-tracking app that hit $8M ARR in months.
+Running `/scalebrick:audit` on Cal AI, the AI calorie-tracking app that hit $50M ARR in months.
 
 ![Full audit scrolling through](docs/images/audit-full.gif)
 
