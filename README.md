@@ -4,6 +4,8 @@
 
 Open-source Claude Code skills for startup founders and growth marketers. Built on the same methodology that powers ScaleBrick's AI VP of Marketing, Morgan.
 
+![Social Search Audit verdict on Cal AI](docs/images/audit-hero.png)
+
 Visit ScaleBrick: https://scalebrick.com
 
 ## Real client results
@@ -32,6 +34,20 @@ Zero ad spend across both. No marketing team.
 | **Growth Strategy** | `/scalebrick:strategy` | Generates a full marketing strategy: core themes, content pillars, brand voice, 20+ keywords with intent categories, and a posting plan. |
 | **Keyword Research** | `/scalebrick:keywords` | Finds high-intent keywords people are searching on TikTok/Instagram for your niche. Categorizes by type (educational, problem-aware, tool comparison) and rates conversion potential. |
 | **Competitor Audit** | `/scalebrick:competitors` | Audits your top 5-7 competitors across SEO, content, and social media. Identifies gaps you can exploit, positioning angles no one is claiming, and 5 specific moves you can make this week. |
+
+## See it in action
+
+Running `/scalebrick:audit` on Cal AI, the AI calorie-tracking app that hit $8M ARR in months.
+
+![Full audit scrolling through](docs/images/audit-full.gif)
+
+Intent breakdown across four categories, with real TikTok search URLs to verify every claim:
+
+![Intent breakdown by category](docs/images/audit-intent-breakdown.png)
+
+Ten keywords to start with, ranked by intent and conversion potential:
+
+![Keyword table output](docs/images/audit-keywords-table.png)
 
 ## Install
 
